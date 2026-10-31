@@ -1,2 +1,5 @@
 # hello-notes
-Tiny scratch notes
+
+hello from edgepack7k2m — notes scratch
+
+
